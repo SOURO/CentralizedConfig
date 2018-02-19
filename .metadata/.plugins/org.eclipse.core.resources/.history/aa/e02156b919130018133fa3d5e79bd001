@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package org.ConfigDemo;
+
+/**
+ * @author sourabrata
+ *
+ */
+public class ConfigDemo {
+	public static void main(String[] args) {
+		SpringApplication.run(ConfigServiceApplication.class, args);
+	}
+}

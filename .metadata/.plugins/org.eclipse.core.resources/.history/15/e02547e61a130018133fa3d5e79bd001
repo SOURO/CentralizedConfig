@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package org.ServiceDemo;
+
+/**
+ * @author sourabrata
+ *
+ */
+@SpringBootApplication
+public class ServiceDemo {
+	 public static void main(String[] args) {
+	        SpringApplication.run(ConfigClientApplication.class, args);
+	    }
+}

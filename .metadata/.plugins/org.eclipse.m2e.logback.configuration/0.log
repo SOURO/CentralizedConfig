@@ -839,3 +839,1055 @@ org.apache.maven.artifact.InvalidArtifactRTException: For artifact {org.springfr
 2018-02-16 20:06:03,024 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-02-16 20:06:03,026 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-16 20:06:03,026 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-19 17:42:32,660 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 17:42:32,689 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 17:42:32,691 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 17:42:32,693 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 17:42:32,693 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-19 17:47:33,434 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 17:47:33,435 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 17:47:33,438 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 17:47:33,441 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 17:47:33,442 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-19 19:54:53,475 [Worker-321] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml
+2018-02-19 19:54:53,969 [Worker-321] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:SpringCloudVaultDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml.
+2018-02-19 19:54:55,461 [Worker-321] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudVaultDemo/src/main/java
+2018-02-19 19:54:55,466 [Worker-321] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudVaultDemo/src/test/java
+2018-02-19 19:54:55,634 [Worker-321] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-02-19 19:54:57,541 [Worker-321] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:54:57,542 [Worker-321] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:54:57,544 [Worker-321] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:54:57,544 [Worker-321] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 19:56:23,041 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.4.RELEASE/spring-boot-starter-parent-1.5.4.RELEASE.pom
+2018-02-19 19:56:23,511 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.4.RELEASE/spring-boot-starter-parent-1.5.4.RELEASE.pom
+2018-02-19 19:56:23,793 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.4.RELEASE/spring-boot-dependencies-1.5.4.RELEASE.pom
+2018-02-19 19:56:26,091 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.4.RELEASE/spring-boot-dependencies-1.5.4.RELEASE.pom
+2018-02-19 19:56:26,380 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/1.0.1.RELEASE/spring-cloud-vault-dependencies-1.0.1.RELEASE.pom
+2018-02-19 19:56:26,677 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/1.0.1.RELEASE/spring-cloud-vault-dependencies-1.0.1.RELEASE.pom
+2018-02-19 19:56:26,948 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.8/jackson-bom-2.8.8.pom
+2018-02-19 19:56:27,370 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.8/jackson-bom-2.8.8.pom
+2018-02-19 19:56:27,659 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR4/spring-data-releasetrain-Ingalls-SR4.pom
+2018-02-19 19:56:27,996 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR4/spring-data-releasetrain-Ingalls-SR4.pom
+2018-02-19 19:56:28,286 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.9.4.RELEASE/spring-data-build-1.9.4.RELEASE.pom
+2018-02-19 19:56:28,594 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.9.4.RELEASE/spring-data-build-1.9.4.RELEASE.pom
+2018-02-19 19:56:28,871 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.10.RELEASE/spring-integration-bom-4.3.10.RELEASE.pom
+2018-02-19 19:56:29,287 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.10.RELEASE/spring-integration-bom-4.3.10.RELEASE.pom
+2018-02-19 19:56:31,019 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.5.4.RELEASE/spring-boot-maven-plugin-1.5.4.RELEASE.pom
+2018-02-19 19:56:31,459 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.5.4.RELEASE/spring-boot-maven-plugin-1.5.4.RELEASE.pom
+2018-02-19 19:56:31,704 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/1.5.4.RELEASE/spring-boot-tools-1.5.4.RELEASE.pom
+2018-02-19 19:56:31,993 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/1.5.4.RELEASE/spring-boot-tools-1.5.4.RELEASE.pom
+2018-02-19 19:56:32,285 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.5.4.RELEASE/spring-boot-parent-1.5.4.RELEASE.pom
+2018-02-19 19:56:32,820 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.5.4.RELEASE/spring-boot-parent-1.5.4.RELEASE.pom
+2018-02-19 19:56:33,145 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.5.4.RELEASE/spring-boot-maven-plugin-1.5.4.RELEASE.jar
+2018-02-19 19:56:33,684 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/1.5.4.RELEASE/spring-boot-maven-plugin-1.5.4.RELEASE.jar
+2018-02-19 19:56:35,475 [Worker-401] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:SpringCloudVaultDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml.
+2018-02-19 19:56:35,833 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-vault-config/1.0.1.RELEASE/spring-cloud-starter-vault-config-1.0.1.RELEASE.pom
+2018-02-19 19:56:36,224 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-vault-config/1.0.1.RELEASE/spring-cloud-starter-vault-config-1.0.1.RELEASE.pom
+2018-02-19 19:56:36,721 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-parent/1.0.1.RELEASE/spring-cloud-vault-parent-1.0.1.RELEASE.pom
+2018-02-19 19:56:37,006 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-parent/1.0.1.RELEASE/spring-cloud-vault-parent-1.0.1.RELEASE.pom
+2018-02-19 19:56:37,295 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.3.1.RELEASE/spring-cloud-build-1.3.1.RELEASE.pom
+2018-02-19 19:56:37,993 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.3.1.RELEASE/spring-cloud-build-1.3.1.RELEASE.pom
+2018-02-19 19:56:38,282 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/1.2.1.RELEASE/spring-cloud-commons-dependencies-1.2.1.RELEASE.pom
+2018-02-19 19:56:38,542 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/1.2.1.RELEASE/spring-cloud-commons-dependencies-1.2.1.RELEASE.pom
+2018-02-19 19:56:38,821 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom
+2018-02-19 19:56:40,664 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom
+2018-02-19 19:56:41,337 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2018-02-19 19:56:41,876 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-snapshot/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2018-02-19 19:56:42,224 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-snapshot/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2018-02-19 19:56:42,828 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/spring-framework-bom/4.3.7.RELEASE/spring-framework-bom-4.3.7.RELEASE.pom
+2018-02-19 19:56:43,153 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/spring-framework-bom/4.3.7.RELEASE/spring-framework-bom-4.3.7.RELEASE.pom
+2018-02-19 19:56:43,544 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/data/spring-data-releasetrain/Ingalls-SR1/spring-data-releasetrain-Ingalls-SR1.pom
+2018-02-19 19:56:43,874 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/data/spring-data-releasetrain/Ingalls-SR1/spring-data-releasetrain-Ingalls-SR1.pom
+2018-02-19 19:56:44,164 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/data/build/spring-data-build/1.9.1.RELEASE/spring-data-build-1.9.1.RELEASE.pom
+2018-02-19 19:56:44,477 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/data/build/spring-data-build/1.9.1.RELEASE/spring-data-build-1.9.1.RELEASE.pom
+2018-02-19 19:56:44,916 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/integration/spring-integration-bom/4.3.8.RELEASE/spring-integration-bom-4.3.8.RELEASE.pom
+2018-02-19 19:56:45,225 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/integration/spring-integration-bom/4.3.8.RELEASE/spring-integration-bom-4.3.8.RELEASE.pom
+2018-02-19 19:56:45,526 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/security/spring-security-bom/4.2.2.RELEASE/spring-security-bom-4.2.2.RELEASE.pom
+2018-02-19 19:56:45,940 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/security/spring-security-bom/4.2.2.RELEASE/spring-security-bom-4.2.2.RELEASE.pom
+2018-02-19 19:56:46,427 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/1.2.1.RELEASE/spring-cloud-starter-1.2.1.RELEASE.pom
+2018-02-19 19:56:46,802 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/1.2.1.RELEASE/spring-cloud-starter-1.2.1.RELEASE.pom
+2018-02-19 19:56:47,074 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-parent/1.2.1.RELEASE/spring-cloud-commons-parent-1.2.1.RELEASE.pom
+2018-02-19 19:56:47,486 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-parent/1.2.1.RELEASE/spring-cloud-commons-parent-1.2.1.RELEASE.pom
+2018-02-19 19:56:47,802 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.3.2.RELEASE/spring-cloud-build-1.3.2.RELEASE.pom
+2018-02-19 19:56:48,384 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.3.2.RELEASE/spring-cloud-build-1.3.2.RELEASE.pom
+2018-02-19 19:56:48,657 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build-dependencies/1.3.2.RELEASE/spring-cloud-build-dependencies-1.3.2.RELEASE.pom
+2018-02-19 19:56:49,002 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build-dependencies/1.3.2.RELEASE/spring-cloud-build-dependencies-1.3.2.RELEASE.pom
+2018-02-19 19:56:49,270 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.3.RELEASE/spring-boot-dependencies-1.5.3.RELEASE.pom
+2018-02-19 19:56:50,559 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.3.RELEASE/spring-boot-dependencies-1.5.3.RELEASE.pom
+2018-02-19 19:56:50,919 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/spring-framework-bom/4.3.8.RELEASE/spring-framework-bom-4.3.8.RELEASE.pom
+2018-02-19 19:56:51,265 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/spring-framework-bom/4.3.8.RELEASE/spring-framework-bom-4.3.8.RELEASE.pom
+2018-02-19 19:56:51,572 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/data/spring-data-releasetrain/Ingalls-SR3/spring-data-releasetrain-Ingalls-SR3.pom
+2018-02-19 19:56:51,877 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/data/spring-data-releasetrain/Ingalls-SR3/spring-data-releasetrain-Ingalls-SR3.pom
+2018-02-19 19:56:52,176 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/data/build/spring-data-build/1.9.3.RELEASE/spring-data-build-1.9.3.RELEASE.pom
+2018-02-19 19:56:52,491 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/data/build/spring-data-build/1.9.3.RELEASE/spring-data-build-1.9.3.RELEASE.pom
+2018-02-19 19:56:52,803 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/release/org/springframework/integration/spring-integration-bom/4.3.9.RELEASE/spring-integration-bom-4.3.9.RELEASE.pom
+2018-02-19 19:56:53,091 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/org/springframework/integration/spring-integration-bom/4.3.9.RELEASE/spring-integration-bom-4.3.9.RELEASE.pom
+2018-02-19 19:56:53,354 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.4.RELEASE/spring-boot-starter-1.5.4.RELEASE.pom
+2018-02-19 19:56:53,617 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.4.RELEASE/spring-boot-starter-1.5.4.RELEASE.pom
+2018-02-19 19:56:53,879 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.5.4.RELEASE/spring-boot-starters-1.5.4.RELEASE.pom
+2018-02-19 19:56:54,171 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.5.4.RELEASE/spring-boot-starters-1.5.4.RELEASE.pom
+2018-02-19 19:56:54,452 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.pom
+2018-02-19 19:56:54,791 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.pom
+2018-02-19 19:56:55,056 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.pom
+2018-02-19 19:56:55,318 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.pom
+2018-02-19 19:56:55,635 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.pom
+2018-02-19 19:56:55,948 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.pom
+2018-02-19 19:56:56,228 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.pom
+2018-02-19 19:56:56,492 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.pom
+2018-02-19 19:56:56,757 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.pom
+2018-02-19 19:56:57,031 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.pom
+2018-02-19 19:56:57,296 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.9.RELEASE/spring-expression-4.3.9.RELEASE.pom
+2018-02-19 19:56:57,557 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.9.RELEASE/spring-expression-4.3.9.RELEASE.pom
+2018-02-19 19:56:57,816 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.pom
+2018-02-19 19:56:58,175 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.pom
+2018-02-19 19:56:58,437 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.4.RELEASE/spring-boot-starter-logging-1.5.4.RELEASE.pom
+2018-02-19 19:56:58,707 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.4.RELEASE/spring-boot-starter-logging-1.5.4.RELEASE.pom
+2018-02-19 19:56:59,121 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/1.2.1.RELEASE/spring-cloud-context-1.2.1.RELEASE.pom
+2018-02-19 19:56:59,457 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/1.2.1.RELEASE/spring-cloud-context-1.2.1.RELEASE.pom
+2018-02-19 19:56:59,821 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/1.2.1.RELEASE/spring-cloud-commons-1.2.1.RELEASE.pom
+2018-02-19 19:57:00,151 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/1.2.1.RELEASE/spring-cloud-commons-1.2.1.RELEASE.pom
+2018-02-19 19:57:00,447 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-core/1.0.1.RELEASE/spring-vault-core-1.0.1.RELEASE.pom
+2018-02-19 19:57:00,715 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-core/1.0.1.RELEASE/spring-vault-core-1.0.1.RELEASE.pom
+2018-02-19 19:57:01,021 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-parent/1.0.1.RELEASE/spring-vault-parent-1.0.1.RELEASE.pom
+2018-02-19 19:57:01,338 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-parent/1.0.1.RELEASE/spring-vault-parent-1.0.1.RELEASE.pom
+2018-02-19 19:57:01,648 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-dependencies/1.0.1.RELEASE/spring-vault-dependencies-1.0.1.RELEASE.pom
+2018-02-19 19:57:01,920 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-dependencies/1.0.1.RELEASE/spring-vault-dependencies-1.0.1.RELEASE.pom
+2018-02-19 19:57:02,212 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.pom
+2018-02-19 19:57:02,482 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.pom
+2018-02-19 19:57:02,771 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.pom
+2018-02-19 19:57:03,031 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.pom
+2018-02-19 19:57:03,381 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-config/1.0.1.RELEASE/spring-cloud-vault-config-1.0.1.RELEASE.pom
+2018-02-19 19:57:03,713 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-config/1.0.1.RELEASE/spring-cloud-vault-config-1.0.1.RELEASE.pom
+2018-02-19 19:57:03,977 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.pom
+2018-02-19 19:57:04,259 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.pom
+2018-02-19 19:57:04,563 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2018-02-19 19:57:04,825 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2018-02-19 19:57:05,083 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2018-02-19 19:57:05,416 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2018-02-19 19:57:05,730 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.4.RELEASE/spring-boot-starter-data-jpa-1.5.4.RELEASE.pom
+2018-02-19 19:57:06,068 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.4.RELEASE/spring-boot-starter-data-jpa-1.5.4.RELEASE.pom
+2018-02-19 19:57:06,336 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.4.RELEASE/spring-boot-starter-aop-1.5.4.RELEASE.pom
+2018-02-19 19:57:06,601 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.4.RELEASE/spring-boot-starter-aop-1.5.4.RELEASE.pom
+2018-02-19 19:57:06,890 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.pom
+2018-02-19 19:57:07,259 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.pom
+2018-02-19 19:57:07,518 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.4.RELEASE/spring-boot-starter-jdbc-1.5.4.RELEASE.pom
+2018-02-19 19:57:07,849 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.4.RELEASE/spring-boot-starter-jdbc-1.5.4.RELEASE.pom
+2018-02-19 19:57:08,166 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.15/tomcat-jdbc-8.5.15.pom
+2018-02-19 19:57:08,425 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.15/tomcat-jdbc-8.5.15.pom
+2018-02-19 19:57:08,686 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.15/tomcat-juli-8.5.15.pom
+2018-02-19 19:57:09,136 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.15/tomcat-juli-8.5.15.pom
+2018-02-19 19:57:09,430 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.9.RELEASE/spring-jdbc-4.3.9.RELEASE.pom
+2018-02-19 19:57:09,877 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.9.RELEASE/spring-jdbc-4.3.9.RELEASE.pom
+2018-02-19 19:57:10,136 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE.pom
+2018-02-19 19:57:10,409 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE.pom
+2018-02-19 19:57:10,672 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.pom
+2018-02-19 19:57:10,957 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.pom
+2018-02-19 19:57:11,299 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2018-02-19 19:57:11,610 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2018-02-19 19:57:11,882 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2018-02-19 19:57:12,342 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2018-02-19 19:57:12,622 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2018-02-19 19:57:12,877 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2018-02-19 19:57:13,152 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.pom
+2018-02-19 19:57:13,452 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.pom
+2018-02-19 19:57:13,754 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom
+2018-02-19 19:57:14,075 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom
+2018-02-19 19:57:14,380 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.pom
+2018-02-19 19:57:14,728 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.pom
+2018-02-19 19:57:14,988 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/1.9.4.RELEASE/spring-data-parent-1.9.4.RELEASE.pom
+2018-02-19 19:57:15,397 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/1.9.4.RELEASE/spring-data-parent-1.9.4.RELEASE.pom
+2018-02-19 19:57:15,678 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.pom
+2018-02-19 19:57:15,967 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.pom
+2018-02-19 19:57:16,224 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.pom
+2018-02-19 19:57:16,542 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.pom
+2018-02-19 19:57:16,802 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.9.RELEASE/spring-aspects-4.3.9.RELEASE.pom
+2018-02-19 19:57:17,084 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.9.RELEASE/spring-aspects-4.3.9.RELEASE.pom
+2018-02-19 19:57:17,364 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-02-19 19:57:17,659 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-02-19 19:57:17,919 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.4.RELEASE/spring-boot-starter-test-1.5.4.RELEASE.pom
+2018-02-19 19:57:18,191 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.4.RELEASE/spring-boot-starter-test-1.5.4.RELEASE.pom
+2018-02-19 19:57:18,481 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.4.RELEASE/spring-boot-test-1.5.4.RELEASE.pom
+2018-02-19 19:57:18,746 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.4.RELEASE/spring-boot-test-1.5.4.RELEASE.pom
+2018-02-19 19:57:19,016 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.4.RELEASE/spring-boot-test-autoconfigure-1.5.4.RELEASE.pom
+2018-02-19 19:57:19,331 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.4.RELEASE/spring-boot-test-autoconfigure-1.5.4.RELEASE.pom
+2018-02-19 19:57:19,849 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.pom
+2018-02-19 19:57:20,144 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.pom
+2018-02-19 19:57:20,674 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-vault-config/1.0.1.RELEASE/spring-cloud-starter-vault-config-1.0.1.RELEASE.jar
+2018-02-19 19:57:21,008 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-vault-config/1.0.1.RELEASE/spring-cloud-starter-vault-config-1.0.1.RELEASE.jar
+2018-02-19 19:57:21,331 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/1.2.1.RELEASE/spring-cloud-starter-1.2.1.RELEASE.jar
+2018-02-19 19:57:21,679 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/1.2.1.RELEASE/spring-cloud-starter-1.2.1.RELEASE.jar
+2018-02-19 19:57:21,928 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/1.2.1.RELEASE/spring-cloud-context-1.2.1.RELEASE.jar
+2018-02-19 19:57:22,819 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/1.2.1.RELEASE/spring-cloud-context-1.2.1.RELEASE.jar
+2018-02-19 19:57:23,120 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/1.2.1.RELEASE/spring-cloud-commons-1.2.1.RELEASE.jar
+2018-02-19 19:57:23,857 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/1.2.1.RELEASE/spring-cloud-commons-1.2.1.RELEASE.jar
+2018-02-19 19:57:24,106 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-core/1.0.1.RELEASE/spring-vault-core-1.0.1.RELEASE.jar
+2018-02-19 19:57:24,925 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/vault/spring-vault-core/1.0.1.RELEASE/spring-vault-core-1.0.1.RELEASE.jar
+2018-02-19 19:57:25,311 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar
+2018-02-19 19:57:27,462 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar
+2018-02-19 19:57:27,707 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar
+2018-02-19 19:57:28,249 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar
+2018-02-19 19:57:28,573 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-config/1.0.1.RELEASE/spring-cloud-vault-config-1.0.1.RELEASE.jar
+2018-02-19 19:57:28,935 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-config/1.0.1.RELEASE/spring-cloud-vault-config-1.0.1.RELEASE.jar
+2018-02-19 19:57:29,184 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar
+2018-02-19 19:57:30,143 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar
+2018-02-19 19:57:30,396 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2018-02-19 19:57:30,918 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2018-02-19 19:57:31,166 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.4.RELEASE/spring-boot-starter-data-jpa-1.5.4.RELEASE.jar
+2018-02-19 19:57:31,505 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.4.RELEASE/spring-boot-starter-data-jpa-1.5.4.RELEASE.jar
+2018-02-19 19:57:31,753 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.4.RELEASE/spring-boot-starter-1.5.4.RELEASE.jar
+2018-02-19 19:57:32,022 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.5.4.RELEASE/spring-boot-starter-1.5.4.RELEASE.jar
+2018-02-19 19:57:32,275 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.jar
+2018-02-19 19:57:32,984 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.jar
+2018-02-19 19:57:33,252 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar
+2018-02-19 19:57:34,262 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar
+2018-02-19 19:57:34,514 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.4.RELEASE/spring-boot-starter-logging-1.5.4.RELEASE.jar
+2018-02-19 19:57:34,782 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.4.RELEASE/spring-boot-starter-logging-1.5.4.RELEASE.jar
+2018-02-19 19:57:35,031 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.4.RELEASE/spring-boot-starter-aop-1.5.4.RELEASE.jar
+2018-02-19 19:57:35,306 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.4.RELEASE/spring-boot-starter-aop-1.5.4.RELEASE.jar
+2018-02-19 19:57:35,565 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar
+2018-02-19 19:57:36,001 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar
+2018-02-19 19:57:36,257 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar
+2018-02-19 19:57:37,335 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar
+2018-02-19 19:57:37,584 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.4.RELEASE/spring-boot-starter-jdbc-1.5.4.RELEASE.jar
+2018-02-19 19:57:37,856 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.4.RELEASE/spring-boot-starter-jdbc-1.5.4.RELEASE.jar
+2018-02-19 19:57:38,108 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.15/tomcat-jdbc-8.5.15.jar
+2018-02-19 19:57:38,403 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.15/tomcat-jdbc-8.5.15.jar
+2018-02-19 19:57:38,650 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.15/tomcat-juli-8.5.15.jar
+2018-02-19 19:57:38,946 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.15/tomcat-juli-8.5.15.jar
+2018-02-19 19:57:39,196 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.9.RELEASE/spring-jdbc-4.3.9.RELEASE.jar
+2018-02-19 19:57:39,588 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.9.RELEASE/spring-jdbc-4.3.9.RELEASE.jar
+2018-02-19 19:57:39,834 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.jar
+2018-02-19 19:57:41,918 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.jar
+2018-02-19 19:57:42,172 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2018-02-19 19:57:42,458 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2018-02-19 19:57:42,706 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2018-02-19 19:57:42,993 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2018-02-19 19:57:43,241 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar
+2018-02-19 19:57:43,623 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar
+2018-02-19 19:57:43,873 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar
+2018-02-19 19:57:44,129 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar
+2018-02-19 19:57:44,380 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar
+2018-02-19 19:57:44,704 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar
+2018-02-19 19:57:44,951 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar
+2018-02-19 19:57:45,357 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar
+2018-02-19 19:57:45,605 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.jar
+2018-02-19 19:57:45,959 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.jar
+2018-02-19 19:57:46,214 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar
+2018-02-19 19:57:47,249 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar
+2018-02-19 19:57:47,500 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.9.RELEASE/spring-expression-4.3.9.RELEASE.jar
+2018-02-19 19:57:47,834 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.9.RELEASE/spring-expression-4.3.9.RELEASE.jar
+2018-02-19 19:57:48,082 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE.jar
+2018-02-19 19:57:48,429 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE.jar
+2018-02-19 19:57:48,678 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar
+2018-02-19 19:57:49,444 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar
+2018-02-19 19:57:49,690 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.9.RELEASE/spring-aspects-4.3.9.RELEASE.jar
+2018-02-19 19:57:49,973 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.9.RELEASE/spring-aspects-4.3.9.RELEASE.jar
+2018-02-19 19:57:50,227 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-02-19 19:57:51,319 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-02-19 19:57:51,568 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.4.RELEASE/spring-boot-starter-test-1.5.4.RELEASE.jar
+2018-02-19 19:57:51,831 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.4.RELEASE/spring-boot-starter-test-1.5.4.RELEASE.jar
+2018-02-19 19:57:52,081 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.4.RELEASE/spring-boot-test-1.5.4.RELEASE.jar
+2018-02-19 19:57:52,393 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.4.RELEASE/spring-boot-test-1.5.4.RELEASE.jar
+2018-02-19 19:57:52,652 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.4.RELEASE/spring-boot-test-autoconfigure-1.5.4.RELEASE.jar
+2018-02-19 19:57:52,949 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.4.RELEASE/spring-boot-test-autoconfigure-1.5.4.RELEASE.jar
+2018-02-19 19:57:53,211 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar
+2018-02-19 19:57:54,010 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar
+2018-02-19 19:57:54,263 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.jar
+2018-02-19 19:57:54,744 [Worker-401] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.jar
+2018-02-19 19:57:59,209 [Worker-401] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-19 19:58:00,173 [Worker-401] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ServiceDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\pom.xml.
+2018-02-19 19:58:01,410 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:01,410 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:58:01,410 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:58:01,413 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:01,413 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 19:58:33,942 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:33,949 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 19:58:33,950 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 19:58:33,956 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:33,956 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-19 19:58:34,470 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:34,471 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 19:58:34,471 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 19:58:34,473 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:34,473 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-19 19:58:35,177 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:35,177 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:58:35,177 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:58:35,179 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:35,179 [Worker-517] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 19:58:45,529 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:45,529 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:58:45,529 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:58:45,531 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:58:45,532 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 19:59:50,293 [Worker-612] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:59:50,293 [Worker-612] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:59:50,293 [Worker-612] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 19:59:50,295 [Worker-612] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 19:59:50,295 [Worker-612] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:00:12,894 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:00:12,894 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 20:00:12,894 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 20:00:12,896 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:00:12,896 [Worker-630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:00:55,754 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:00:55,754 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 20:00:55,754 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 20:00:55,758 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:00:55,758 [Worker-649] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:01:00,556 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:01:00,556 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 20:01:00,556 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\main\resources
+2018-02-19 20:01:00,558 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:01:00,558 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:02:01,573 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:01,573 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:01,573 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:01,574 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:01,574 [Worker-680] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:02:22,279 [Worker-682] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-19 20:02:23,300 [Worker-682] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:SpringCloudVaultDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml.
+2018-02-19 20:02:23,999 [Worker-682] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ServiceDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\pom.xml.
+2018-02-19 20:02:24,380 [Worker-682] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-19 20:02:25,005 [Worker-682] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudVaultDemo/src/main/java
+2018-02-19 20:02:25,005 [Worker-682] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudVaultDemo/src/main/resources
+2018-02-19 20:02:25,049 [Worker-682] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudVaultDemo/src/main/resources
+2018-02-19 20:02:25,050 [Worker-682] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudVaultDemo/src/test/java
+2018-02-19 20:02:25,630 [Worker-682] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-02-19 20:02:27,437 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:27,439 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:27,440 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:27,442 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:27,443 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-19 20:02:27,934 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:27,934 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:27,934 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:27,937 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:27,937 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-19 20:02:28,548 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:28,548 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:28,549 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:28,551 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:28,551 [Worker-730] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:02:29,475 [Worker-742] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:29,476 [Worker-742] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:29,476 [Worker-742] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:29,478 [Worker-742] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:29,478 [Worker-742] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:02:50,917 [Worker-757] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:50,917 [Worker-757] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:02:50,935 [Worker-757] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:02:50,937 [Worker-757] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:02:50,937 [Worker-757] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:03:07,895 [Worker-768] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:03:07,896 [Worker-768] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:03:07,896 [Worker-768] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:03:07,902 [Worker-768] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:03:07,902 [Worker-768] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:03:42,154 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:03:42,154 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:03:42,156 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:03:42,158 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:03:42,159 [Worker-776] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:03:54,825 [Worker-784] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:03:54,826 [Worker-784] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:03:54,830 [Worker-784] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:03:54,834 [Worker-784] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:03:54,834 [Worker-784] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:04:12,174 [Worker-788] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:04:12,174 [Worker-788] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:04:12,174 [Worker-788] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:04:12,180 [Worker-788] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:04:12,180 [Worker-788] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:04:59,321 [Worker-841] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:04:59,321 [Worker-841] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 20:04:59,321 [Worker-841] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:04:59,325 [Worker-841] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:04:59,326 [Worker-841] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-19 20:06:39,462 [Worker-870] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:06:39,463 [Worker-870] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:06:39,466 [Worker-870] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 20:06:39,468 [Worker-870] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 20:06:39,468 [Worker-870] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:09:44,284 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:09:44,285 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:09:44,288 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:09:44,290 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:09:44,290 [Worker-1361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:15:12,352 [Worker-1388] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:15:12,352 [Worker-1388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:15:12,354 [Worker-1388] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:15:12,358 [Worker-1388] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:15:12,358 [Worker-1388] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:16:41,800 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:16:41,800 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:16:41,802 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:16:41,804 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:16:41,804 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:16:41,903 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:16:41,903 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:16:41,903 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:16:41,908 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:16:41,908 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 16:16:42,021 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:16:42,021 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:16:42,024 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:16:42,031 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:16:42,031 [Worker-1445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:32:26,003 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:32:26,004 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:32:26,006 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:32:26,008 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:32:26,008 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:32:26,091 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:32:26,091 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:32:26,092 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:32:26,096 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:32:26,096 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 16:32:26,248 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:32:26,248 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:32:26,250 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:32:26,255 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:32:26,255 [Worker-1630] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:39:24,430 [Worker-1854] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:39:26,575 [Worker-1854] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.5.9.RELEASE/spring-boot-configuration-processor-1.5.9.RELEASE.pom
+2018-02-20 16:39:26,869 [Worker-1854] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.5.9.RELEASE/spring-boot-configuration-processor-1.5.9.RELEASE.pom
+2018-02-20 16:39:27,449 [Worker-1854] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.5.9.RELEASE/spring-boot-configuration-processor-1.5.9.RELEASE.jar
+2018-02-20 16:39:28,429 [Worker-1854] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.5.9.RELEASE/spring-boot-configuration-processor-1.5.9.RELEASE.jar
+2018-02-20 16:39:28,986 [Worker-1854] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:39:28,986 [Worker-1854] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:39:28,986 [Worker-1854] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:39:28,993 [Worker-1854] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:39:28,994 [Worker-1854] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:39:31,846 [Worker-1875] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:39:31,846 [Worker-1875] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:39:31,849 [Worker-1875] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:39:31,851 [Worker-1875] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:39:31,851 [Worker-1875] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:40:00,101 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:00,102 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:00,103 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:40:00,105 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:00,106 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:40:00,237 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:00,237 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:40:00,238 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:00,242 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:00,242 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 16:40:00,329 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:00,330 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:00,332 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:00,336 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:00,337 [Worker-1906] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:40:32,506 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:32,507 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:32,508 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:40:32,510 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:32,510 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:40:32,622 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:32,622 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:40:32,623 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:32,627 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:32,627 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 16:40:32,716 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:32,717 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:32,719 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:40:32,723 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:40:32,723 [Worker-1946] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:43:59,146 [Worker-1998] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:43:59,819 [Worker-1998] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:43:59,820 [Worker-1998] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:43:59,820 [Worker-1998] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:43:59,822 [Worker-1998] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:43:59,822 [Worker-1998] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:44:03,076 [Worker-2026] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:44:03,076 [Worker-2026] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:44:03,078 [Worker-2026] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:44:03,080 [Worker-2026] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:44:03,080 [Worker-2026] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:44:33,487 [Worker-2066] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:44:34,098 [Worker-2066] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:44:34,105 [Worker-2066] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:44:34,105 [Worker-2066] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:44:34,107 [Worker-2066] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:44:34,107 [Worker-2066] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:44:49,694 [Worker-2105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:44:49,694 [Worker-2105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:44:49,696 [Worker-2105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:44:49,698 [Worker-2105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:44:49,698 [Worker-2105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:45:14,256 [Worker-2143] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:45:14,711 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:45:14,711 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:45:14,711 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:45:14,713 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:45:14,713 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:45:16,720 [Worker-2173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:45:16,721 [Worker-2173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:45:16,723 [Worker-2173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:45:16,725 [Worker-2173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:45:16,725 [Worker-2173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:45:50,845 [Worker-2218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.souro:SpringCloudConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\pom.xml.
+2018-02-20 16:46:03,584 [Worker-2252] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:46:06,690 [Worker-2252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:46:06,690 [Worker-2252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:46:06,690 [Worker-2252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:46:06,695 [Worker-2252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:46:06,695 [Worker-2252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:46:47,372 [Worker-2297] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:46:47,871 [Worker-2297] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:46:47,871 [Worker-2297] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:46:47,874 [Worker-2297] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:46:47,876 [Worker-2297] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:46:47,876 [Worker-2297] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:47:20,233 [Worker-2331] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:47:20,234 [Worker-2331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:47:20,235 [Worker-2331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:47:20,238 [Worker-2331] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:47:20,238 [Worker-2331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:51:43,941 [Worker-2529] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:SpringCloudVaultDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml.
+2018-02-20 16:51:44,642 [Worker-2529] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:51:44,642 [Worker-2529] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:51:44,642 [Worker-2529] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:51:44,644 [Worker-2529] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:51:44,644 [Worker-2529] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:51:47,293 [Worker-2624] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:51:47,294 [Worker-2624] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:51:47,295 [Worker-2624] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:51:47,301 [Worker-2624] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:51:47,301 [Worker-2624] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:52:39,444 [Worker-2717] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:SpringCloudVaultDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml.
+2018-02-20 16:52:41,089 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.9.RELEASE/spring-boot-starter-data-jpa-1.5.9.RELEASE.pom
+2018-02-20 16:52:41,370 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.9.RELEASE/spring-boot-starter-data-jpa-1.5.9.RELEASE.pom
+2018-02-20 16:52:41,649 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.9.RELEASE/spring-boot-starter-aop-1.5.9.RELEASE.pom
+2018-02-20 16:52:41,918 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.9.RELEASE/spring-boot-starter-aop-1.5.9.RELEASE.pom
+2018-02-20 16:52:42,191 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.pom
+2018-02-20 16:52:42,458 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.pom
+2018-02-20 16:52:42,727 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.9.RELEASE/spring-boot-starter-jdbc-1.5.9.RELEASE.pom
+2018-02-20 16:52:42,996 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.9.RELEASE/spring-boot-starter-jdbc-1.5.9.RELEASE.pom
+2018-02-20 16:52:43,271 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.pom
+2018-02-20 16:52:43,539 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.pom
+2018-02-20 16:52:43,808 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.23/tomcat-juli-8.5.23.pom
+2018-02-20 16:52:44,076 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.23/tomcat-juli-8.5.23.pom
+2018-02-20 16:52:44,346 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.pom
+2018-02-20 16:52:44,640 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.pom
+2018-02-20 16:52:44,909 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.pom
+2018-02-20 16:52:45,193 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.pom
+2018-02-20 16:52:45,504 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.pom
+2018-02-20 16:52:46,031 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.pom
+2018-02-20 16:52:46,301 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/1.9.9.RELEASE/spring-data-parent-1.9.9.RELEASE.pom
+2018-02-20 16:52:46,688 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-parent/1.9.9.RELEASE/spring-data-parent-1.9.9.RELEASE.pom
+2018-02-20 16:52:46,963 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.pom
+2018-02-20 16:52:47,284 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.pom
+2018-02-20 16:52:47,556 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.pom
+2018-02-20 16:52:47,833 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.pom
+2018-02-20 16:52:48,109 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.13.RELEASE/spring-aspects-4.3.13.RELEASE.pom
+2018-02-20 16:52:48,377 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.13.RELEASE/spring-aspects-4.3.13.RELEASE.pom
+2018-02-20 16:52:48,563 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.pom
+2018-02-20 16:52:48,647 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.pom
+2018-02-20 16:52:48,831 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.pom
+2018-02-20 16:52:48,915 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.pom
+2018-02-20 16:52:49,335 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.9.RELEASE/spring-boot-starter-data-jpa-1.5.9.RELEASE.jar
+2018-02-20 16:52:49,353 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.pom
+2018-02-20 16:52:49,604 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/1.5.9.RELEASE/spring-boot-starter-data-jpa-1.5.9.RELEASE.jar
+2018-02-20 16:52:49,618 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.pom
+2018-02-20 16:52:49,865 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.9.RELEASE/spring-boot-starter-aop-1.5.9.RELEASE.jar
+2018-02-20 16:52:50,090 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.9.RELEASE/spring-boot-starter-aop-1.5.9.RELEASE.jar
+2018-02-20 16:52:50,136 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.9.RELEASE/spring-boot-starter-aop-1.5.9.RELEASE.jar
+2018-02-20 16:52:50,369 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/1.5.9.RELEASE/spring-boot-starter-aop-1.5.9.RELEASE.jar
+2018-02-20 16:52:50,398 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar
+2018-02-20 16:52:50,624 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar
+2018-02-20 16:52:52,126 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar
+2018-02-20 16:52:52,387 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.9.RELEASE/spring-boot-starter-jdbc-1.5.9.RELEASE.jar
+2018-02-20 16:52:52,654 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.9.RELEASE/spring-boot-starter-jdbc-1.5.9.RELEASE.jar
+2018-02-20 16:52:52,917 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.jar
+2018-02-20 16:52:53,251 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.jar
+2018-02-20 16:52:53,511 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.23/tomcat-juli-8.5.23.jar
+2018-02-20 16:52:53,789 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.23/tomcat-juli-8.5.23.jar
+2018-02-20 16:52:54,051 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar
+2018-02-20 16:52:54,416 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar
+2018-02-20 16:52:54,678 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar
+2018-02-20 16:52:55,013 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar
+2018-02-20 16:52:55,279 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar
+2018-02-20 16:52:55,735 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar
+2018-02-20 16:52:56,003 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.jar
+2018-02-20 16:52:56,393 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.jar
+2018-02-20 16:52:56,654 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.jar
+2018-02-20 16:52:57,005 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.jar
+2018-02-20 16:52:57,272 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.13.RELEASE/spring-aspects-4.3.13.RELEASE.jar
+2018-02-20 16:52:57,553 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.13.RELEASE/spring-aspects-4.3.13.RELEASE.jar
+2018-02-20 16:52:57,821 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.jar
+2018-02-20 16:52:58,814 [Worker-2717] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.jar
+2018-02-20 16:53:00,029 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar
+2018-02-20 16:53:00,283 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.9.RELEASE/spring-boot-starter-jdbc-1.5.9.RELEASE.jar
+2018-02-20 16:53:00,334 [Worker-2717] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:00,334 [Worker-2717] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:53:00,334 [Worker-2717] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:53:00,335 [Worker-2717] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:00,335 [Worker-2717] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:53:00,547 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/1.5.9.RELEASE/spring-boot-starter-jdbc-1.5.9.RELEASE.jar
+2018-02-20 16:53:00,801 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.jar
+2018-02-20 16:53:01,108 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:01,109 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:53:01,109 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:53:01,116 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:01,116 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:53:01,516 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.jar
+2018-02-20 16:53:01,769 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.23/tomcat-juli-8.5.23.jar
+2018-02-20 16:53:01,837 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:01,837 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:53:01,840 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:53:01,844 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:01,845 [Worker-2788] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:53:02,653 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/8.5.23/tomcat-juli-8.5.23.jar
+2018-02-20 16:53:02,908 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar
+2018-02-20 16:53:04,899 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar
+2018-02-20 16:53:05,187 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar
+2018-02-20 16:53:06,639 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar
+2018-02-20 16:53:06,929 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar
+2018-02-20 16:53:10,057 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar
+2018-02-20 16:53:10,312 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.jar
+2018-02-20 16:53:11,912 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.jar
+2018-02-20 16:53:12,188 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.jar
+2018-02-20 16:53:12,994 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.jar
+2018-02-20 16:53:13,248 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.13.RELEASE/spring-aspects-4.3.13.RELEASE.jar
+2018-02-20 16:53:13,605 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.13.RELEASE/spring-aspects-4.3.13.RELEASE.jar
+2018-02-20 16:53:13,861 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.jar
+2018-02-20 16:53:14,183 [Worker-2823] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:14,183 [Worker-2823] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:53:14,185 [Worker-2823] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:53:14,190 [Worker-2823] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:14,190 [Worker-2823] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:53:16,563 [Worker-2728] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.jar
+2018-02-20 16:53:57,532 [Worker-2876] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:SpringCloudVaultDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudVaultDemo\pom.xml.
+2018-02-20 16:53:58,165 [Worker-2876] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:58,166 [Worker-2876] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:53:58,169 [Worker-2876] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:53:58,173 [Worker-2876] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:53:58,174 [Worker-2876] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:54:00,209 [Worker-2925] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:54:00,209 [Worker-2925] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:54:00,211 [Worker-2925] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:54:00,215 [Worker-2925] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:54:00,215 [Worker-2925] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudVaultDemo\src\test\resources
+2018-02-20 16:56:39,480 [Worker-3051] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 16:56:41,204 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:56:41,204 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:56:41,206 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:56:41,208 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:56:41,208 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 16:56:41,284 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:56:41,284 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 16:56:41,284 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 16:56:41,289 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 16:56:41,289 [Worker-3077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 17:01:01,812 [Worker-3132] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ConfigDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\pom.xml.
+2018-02-20 17:01:02,358 [Worker-3132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:01:02,358 [Worker-3132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:01:02,360 [Worker-3132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:01:02,361 [Worker-3132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:01:02,361 [Worker-3132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:01:03,421 [Worker-3156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:01:03,422 [Worker-3156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:01:03,424 [Worker-3156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:01:03,426 [Worker-3156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:01:03,426 [Worker-3156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:03:18,888 [Worker-3235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:03:18,889 [Worker-3235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:03:18,891 [Worker-3235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:03:18,893 [Worker-3235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:03:18,893 [Worker-3235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:03:42,538 [Worker-3266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:03:42,538 [Worker-3266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:03:42,540 [Worker-3266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:03:42,542 [Worker-3266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:03:42,542 [Worker-3266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:10:00,452 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:10:00,452 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:10:00,454 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:10:00,456 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:10:00,456 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:10:00,530 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:10:00,530 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:10:00,530 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:10:00,534 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:10:00,534 [Worker-3343] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 17:18:48,701 [Worker-3397] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:18:48,701 [Worker-3397] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:18:48,703 [Worker-3397] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:18:48,706 [Worker-3397] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:18:48,706 [Worker-3397] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:19:17,828 [Worker-3480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:17,829 [Worker-3480] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:19:17,830 [Worker-3480] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:19:17,832 [Worker-3480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:17,832 [Worker-3480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:19:30,798 [Worker-3513] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:30,799 [Worker-3513] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:19:30,802 [Worker-3513] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:19:30,804 [Worker-3513] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:30,804 [Worker-3513] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:19:59,557 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:59,557 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:19:59,559 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:19:59,560 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:59,560 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:19:59,636 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:59,636 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:19:59,636 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:19:59,642 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:19:59,642 [Worker-3559] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 17:21:34,354 [Worker-3603] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:21:34,355 [Worker-3603] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:21:34,357 [Worker-3603] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:21:34,359 [Worker-3603] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:21:34,359 [Worker-3603] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:21:49,313 [Worker-3668] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:21:49,314 [Worker-3668] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:21:49,314 [Worker-3668] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:21:49,316 [Worker-3668] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:21:49,316 [Worker-3668] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 17:21:52,945 [Worker-3713] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:21:52,946 [Worker-3713] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:21:52,946 [Worker-3713] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:21:52,948 [Worker-3713] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:21:52,948 [Worker-3713] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-20 17:22:01,754 [Worker-3793] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:22:01,754 [Worker-3793] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:22:01,757 [Worker-3793] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:22:01,759 [Worker-3793] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:22:01,759 [Worker-3793] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:22:09,910 [Worker-3836] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:22:09,911 [Worker-3836] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:22:09,912 [Worker-3836] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:22:09,914 [Worker-3836] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:22:09,914 [Worker-3836] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:22:13,662 [Worker-3881] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:22:13,663 [Worker-3881] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:22:13,664 [Worker-3881] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:22:13,666 [Worker-3881] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:22:13,666 [Worker-3881] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:24:23,507 [Worker-3963] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:24:23,508 [Worker-3963] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:24:23,509 [Worker-3963] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:24:23,512 [Worker-3963] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:24:23,512 [Worker-3963] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:29:42,152 [Worker-4027] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:29:42,153 [Worker-4027] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:29:42,155 [Worker-4027] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:29:42,157 [Worker-4027] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:29:42,157 [Worker-4027] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-20 17:35:51,476 [Worker-4075] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:35:51,477 [Worker-4075] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-20 17:35:51,477 [Worker-4075] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-20 17:35:51,482 [Worker-4075] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-20 17:35:51,482 [Worker-4075] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-23 13:16:52,684 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-23 13:17:14,603 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:14,613 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-23 13:17:14,652 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-23 13:17:14,657 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:14,658 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-23 13:17:17,398 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:17,400 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-23 13:17:17,401 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-23 13:17:17,406 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:17,406 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ConfigDemo\src\test\resources
+2018-02-23 13:17:19,646 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:19,646 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-23 13:17:19,647 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-23 13:17:19,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:19,651 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-02-23 13:17:20,087 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:20,087 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-23 13:17:20,088 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-23 13:17:20,090 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-23 13:17:20,091 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-03-08 12:42:36,415 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-08 12:43:47,378 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\CentralizedConfig\AwsKmsDemo\pom.xml
+2018-03-08 12:43:51,072 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:43:52,401 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AwsKmsDemo/src/main/java
+2018-03-08 12:43:52,408 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AwsKmsDemo/src/test/java
+2018-03-08 12:43:52,622 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2018-03-08 12:43:53,407 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:43:53,408 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:43:53,412 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:43:53,413 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:43:58,513 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:43:58,519 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-08 12:43:58,519 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-08 12:43:58,540 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:43:58,540 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-03-08 12:45:17,903 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:45:19,577 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.10.19/aws-java-sdk-s3-1.10.19.pom
+2018-03-08 12:45:19,904 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.10.19/aws-java-sdk-s3-1.10.19.pom
+2018-03-08 12:45:20,181 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-pom/1.10.19/aws-java-sdk-pom-1.10.19.pom
+2018-03-08 12:45:20,451 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-pom/1.10.19/aws-java-sdk-pom-1.10.19.pom
+2018-03-08 12:45:20,726 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.10.19/aws-java-sdk-kms-1.10.19.pom
+2018-03-08 12:45:20,998 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.10.19/aws-java-sdk-kms-1.10.19.pom
+2018-03-08 12:45:21,271 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.10.19/aws-java-sdk-core-1.10.19.pom
+2018-03-08 12:45:21,566 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.10.19/aws-java-sdk-core-1.10.19.pom
+2018-03-08 12:45:22,059 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2018-03-08 12:45:22,392 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2018-03-08 12:45:22,667 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2018-03-08 12:45:22,967 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2018-03-08 12:45:23,238 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2018-03-08 12:45:23,605 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2018-03-08 12:45:23,879 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2018-03-08 12:45:24,149 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2018-03-08 12:45:24,422 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2018-03-08 12:45:24,704 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2018-03-08 12:45:24,977 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2018-03-08 12:45:25,322 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2018-03-08 12:45:25,597 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2018-03-08 12:45:25,873 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2018-03-08 12:45:26,183 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.10.19/aws-java-sdk-ec2-1.10.19.pom
+2018-03-08 12:45:26,458 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.10.19/aws-java-sdk-ec2-1.10.19.pom
+2018-03-08 12:45:26,765 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.10.19/aws-java-sdk-sts-1.10.19.pom
+2018-03-08 12:45:27,035 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.10.19/aws-java-sdk-sts-1.10.19.pom
+2018-03-08 12:45:27,308 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.10.19/aws-java-sdk-sqs-1.10.19.pom
+2018-03-08 12:45:27,586 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.10.19/aws-java-sdk-sqs-1.10.19.pom
+2018-03-08 12:45:27,886 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.10.19/aws-java-sdk-dynamodb-1.10.19.pom
+2018-03-08 12:45:28,161 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.10.19/aws-java-sdk-dynamodb-1.10.19.pom
+2018-03-08 12:45:28,433 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2018-03-08 12:45:28,723 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2018-03-08 12:45:29,107 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.10.19/aws-java-sdk-s3-1.10.19.jar
+2018-03-08 12:45:30,495 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.10.19/aws-java-sdk-s3-1.10.19.jar
+2018-03-08 12:45:30,769 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.10.19/aws-java-sdk-core-1.10.19.jar
+2018-03-08 12:45:31,151 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.10.19/aws-java-sdk-core-1.10.19.jar
+2018-03-08 12:45:31,425 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2018-03-08 12:45:32,012 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2018-03-08 12:45:32,273 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2018-03-08 12:45:32,545 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2018-03-08 12:45:32,833 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2018-03-08 12:45:33,136 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2018-03-08 12:45:33,508 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.10.19/aws-java-sdk-ec2-1.10.19.jar
+2018-03-08 12:45:34,330 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.10.19/aws-java-sdk-ec2-1.10.19.jar
+2018-03-08 12:45:34,331 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.10.19/aws-java-sdk-sts-1.10.19.jar
+2018-03-08 12:45:34,331 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.10.19/aws-java-sdk-kms-1.10.19.jar
+2018-03-08 12:45:34,331 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.10.19/aws-java-sdk-sqs-1.10.19.jar
+2018-03-08 12:45:34,331 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.10.19/aws-java-sdk-dynamodb-1.10.19.jar
+2018-03-08 12:45:34,331 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2018-03-08 12:45:39,855 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:45:39,855 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:45:39,856 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:45:39,857 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:45:53,248 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:45:53,459 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:45:53,459 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:45:53,462 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:45:53,462 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:46:08,014 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:46:08,681 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:08,682 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:46:08,683 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:08,683 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:46:27,478 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:46:27,532 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:27,532 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:46:27,533 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:27,534 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:46:29,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:29,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:46:29,149 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:29,149 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:46:41,106 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:46:41,264 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:41,265 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:46:41,268 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:41,268 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:46:58,641 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:58,641 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:46:58,642 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:46:58,644 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:47:20,260 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-03-08 12:47:21,168 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 12:47:22,471 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.10.19/aws-java-sdk-kms-1.10.19.jar
+2018-03-08 12:47:23,949 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.10.19/aws-java-sdk-kms-1.10.19.jar
+2018-03-08 12:47:24,207 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2018-03-08 12:47:24,741 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2018-03-08 12:47:25,451 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:ServiceDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\pom.xml.
+2018-03-08 12:47:26,793 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AwsKmsDemo/src/main/java
+2018-03-08 12:47:26,795 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AwsKmsDemo/src/test/java
+2018-03-08 12:47:27,085 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2018-03-08 12:47:27,539 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:47:27,540 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:47:27,542 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:47:27,543 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:47:28,807 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:47:28,809 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-08 12:47:28,809 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-08 12:47:28,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:47:28,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\SpringCloudConfigDemo\ServiceDemo\src\test\resources
+2018-03-08 12:48:05,184 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:48:05,184 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:48:05,186 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:48:05,186 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:48:22,193 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:48:22,194 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:48:22,195 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:48:22,195 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:49:16,342 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:49:16,342 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:49:16,342 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:49:16,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:49:36,619 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:49:36,619 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:49:36,621 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:49:36,622 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:49:55,488 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:49:55,489 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:49:55,491 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:49:55,491 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:51:51,749 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:51:51,749 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:51:51,752 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:51:51,752 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:53:05,926 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:53:05,927 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:53:05,928 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:53:05,928 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:53:44,892 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:53:44,893 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:53:44,894 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:53:44,894 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:55:44,707 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:55:44,707 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:55:44,708 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:55:44,709 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:56:37,263 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:56:37,264 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:56:37,265 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:56:37,265 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:57:24,008 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:57:24,008 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:57:24,008 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:57:24,008 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:57:39,657 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:57:39,657 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:57:39,659 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:57:39,659 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 12:57:55,377 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:57:55,377 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 12:57:55,378 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 12:57:55,378 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 13:00:14,423 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 13:00:14,424 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 13:00:14,428 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 13:00:14,429 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 14:07:58,455 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 14:07:58,457 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 14:07:58,459 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 14:07:58,459 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 14:09:18,506 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 14:09:18,506 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 14:09:18,508 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 14:09:18,508 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:10:23,520 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 15:10:28,184 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:10:28,185 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:10:28,186 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:10:28,186 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:10:31,522 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:10:31,522 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:10:31,524 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:10:31,524 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:16:49,132 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:16:49,132 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:16:49,133 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:16:49,134 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:17:15,414 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:17:15,415 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:17:15,416 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:17:15,416 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:18:25,630 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 15:18:25,818 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:18:25,818 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:18:25,819 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:18:25,819 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:18:27,609 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:18:27,609 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:18:27,610 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:18:27,610 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:30:12,653 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.souro:AwsKmsDemo:0.0.1-SNAPSHOT @ D:\CentralizedConfig\AwsKmsDemo\pom.xml.
+2018-03-08 15:30:12,841 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:30:12,841 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:30:12,843 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:30:12,843 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:30:14,728 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:30:14,728 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:30:14,729 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:30:14,730 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:30:49,627 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:30:49,627 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:30:49,628 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:30:49,628 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:34:25,227 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:34:25,227 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:34:25,228 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:34:25,229 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:34:55,363 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:34:55,363 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:34:55,364 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:34:55,364 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:44:29,737 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:44:29,737 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:44:29,738 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:44:29,738 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:46:44,242 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:46:44,242 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:46:44,244 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:46:44,244 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:47:31,635 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:47:31,636 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:47:31,637 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:47:31,637 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 15:47:36,979 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:47:36,980 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 15:47:36,982 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 15:47:36,982 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 16:16:33,158 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:16:33,158 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 16:16:33,160 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:16:33,160 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 16:20:14,128 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:20:14,129 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 16:20:14,130 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:20:14,131 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 16:20:24,115 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:20:24,115 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 16:20:24,117 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:20:24,117 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 16:20:30,265 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:20:30,266 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 16:20:30,267 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 16:20:30,267 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 18:43:14,589 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 18:43:14,589 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 18:43:14,590 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 18:43:14,590 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 19:03:43,423 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:03:43,423 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 19:03:43,424 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:03:43,425 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 19:07:03,587 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:07:03,587 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 19:07:03,587 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:07:03,587 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 19:07:33,982 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:07:33,982 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 19:07:33,983 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:07:33,983 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 19:08:09,305 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:08:09,305 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 19:08:09,309 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:08:09,309 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-08 19:14:09,707 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:14:09,708 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-08 19:14:09,708 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-08 19:14:09,708 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources
+2018-03-09 16:52:32,950 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-09 16:52:32,952 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\main\resources
+2018-03-09 16:52:32,953 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-09 16:52:32,954 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CentralizedConfig\AwsKmsDemo\src\test\resources

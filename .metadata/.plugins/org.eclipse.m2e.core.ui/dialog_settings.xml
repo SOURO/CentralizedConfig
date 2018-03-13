@@ -2,13 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.souro"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="ConfigDemo"/>
-			<item value="SpringCloudConfigDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -73,6 +70,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.souro.SpringCloudVaultDemo"/>
 			<item value="org.ConfigDemo"/>
 			<item value="org.ServiceDemo"/>
 			<item value="com.souro.SpringCloudConfigDemo"/>
@@ -81,6 +79,7 @@
 			<item value="com.souro"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringCloudVaultDemo"/>
 			<item value="ConfigDemo"/>
 			<item value="ServiceDemo"/>
 			<item value="SpringCloudConfigDemo"/>

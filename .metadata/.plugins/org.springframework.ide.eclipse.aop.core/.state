@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="SpringCloudVaultDemo"/>
 <aop-project name="ConfigDemo"/>
 <aop-project name="ServiceDemo"/>
 </aop-reference-model>
